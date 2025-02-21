@@ -3,3 +3,7 @@
 3. Run command - make build
 4. Run command - make compute
 5. Run command - make test
+
+![img.png](img.png)
+
+![img_1.png](img_1.png)
